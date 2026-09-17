@@ -1,0 +1,133 @@
+[
+  {
+    "id": "backend-geo",
+    "title": "Data architecture through rollout",
+    "kind": "career-record",
+    "text": "At HG Insights, Prateek designed a geo-standardization service for 15M+ US and Canada company records and carried the work through a phased rollout with stakeholders.",
+    "limitation": "Career account. Employer data and implementation are not public.",
+    "links": [
+      {
+        "label": "Résumé",
+        "url": "https://prateekmulye.dev/resume"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/prateekmulye/"
+      }
+    ]
+  },
+  {
+    "id": "backend-postgres",
+    "title": "PostgreSQL at scale",
+    "kind": "career-record",
+    "text": "At HG Insights, Prateek scaled PostgreSQL beyond 30M rows using partitioning, composite indexing and read replicas, reducing dashboard latency by more than 60%.",
+    "limitation": "Career account. This result belongs to the HG Insights system, not a personal AI project.",
+    "links": [
+      {
+        "label": "Résumé",
+        "url": "https://prateekmulye.dev/resume"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/prateekmulye/"
+      }
+    ]
+  },
+  {
+    "id": "backend-recovery",
+    "title": "Recovery as part of system design",
+    "kind": "career-record",
+    "text": "At Cognizant, working for client Capital One, Prateek worked on Kafka workflows using dead-letter queues, bounded retry with backoff and idempotent replay.",
+    "limitation": "Career account. Idempotent replay is not a universal exactly-once delivery guarantee.",
+    "links": [
+      {
+        "label": "Résumé",
+        "url": "https://prateekmulye.dev/resume"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/prateekmulye/"
+      }
+    ]
+  },
+  {
+    "id": "manufacturing-gemba",
+    "title": "Manufacturing workflow automation",
+    "kind": "career-record",
+    "text": "At Agilent, Prateek built internal Gemba reporting and action-tracking applications using Power Apps and Power Automate. Gemba walks are Lean shop-floor observation rounds. Both apps are used by colleagues, reducing manual coordination. Global manufacturing and technology leadership expressed interest in broader plant rollout.",
+    "limitation": "This is internal workflow automation. Broader rollout is an expressed interest, not a completed deployment. No quantified savings, adoption count or externally shipped AI product is claimed. Employer implementation details remain private.",
+    "links": [
+      {
+        "label": "Résumé",
+        "url": "https://prateekmulye.dev/resume"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/prateekmulye/"
+      }
+    ]
+  },
+  {
+    "id": "ai-orchestration",
+    "title": "Research orchestration",
+    "kind": "source-reviewed",
+    "text": "Assay originated in the SuperDataScience CP044 community project. Prateek contributed to analyst fan-out, bull, bear, risk and reporter stages in Python and LangGraph, with reports streamed through FastAPI server-sent events.",
+    "limitation": "Contribution to a community project. Pinned source review, not a reproduced live-model run or sole-authorship claim.",
+    "links": [
+      {
+        "label": "Graph source",
+        "url": "https://github.com/prateekmulye/assay/blob/2ad2a1da875ef1751e0345f9e05ced7e56775e78/src/graph.py"
+      },
+      {
+        "label": "Streaming source",
+        "url": "https://github.com/prateekmulye/assay/blob/2ad2a1da875ef1751e0345f9e05ced7e56775e78/src/api/stream.py"
+      },
+      {
+        "label": "Résumé",
+        "url": "https://prateekmulye.dev/resume"
+      }
+    ]
+  },
+  {
+    "id": "ai-evaluation",
+    "title": "Comparing agent workflows",
+    "kind": "source-reviewed",
+    "text": "Assay includes an evaluation harness comparing debate and non-debate workflows. It records judge preferences, token usage and estimated cost. Structured output validates shape, not factual accuracy. No reproduced model-quality result is claimed.",
+    "limitation": "Fixed judge order, excluded failed pairs and node-summed latency limit interpretation of the harness.",
+    "links": [
+      {
+        "label": "Evaluation harness",
+        "url": "https://github.com/prateekmulye/assay/blob/2ad2a1da875ef1751e0345f9e05ced7e56775e78/src/eval/harness.py"
+      },
+      {
+        "label": "Judge source",
+        "url": "https://github.com/prateekmulye/assay/blob/2ad2a1da875ef1751e0345f9e05ced7e56775e78/src/eval/judge.py"
+      },
+      {
+        "label": "Résumé",
+        "url": "https://prateekmulye.dev/resume"
+      }
+    ]
+  },
+  {
+    "id": "ai-streaming",
+    "title": "Application engineering around inference",
+    "kind": "source-reviewed",
+    "text": "ChatFormula1 v2 contains a stateless routed Python/LangGraph retrieval pipeline, a developing Elixir/Phoenix gateway and a React streaming client. The client reducer handles duplicate and replayed events. Public v1 is separate from this reviewed v2 source.",
+    "limitation": "Current deployment and model quality are unverified. The browser mechanism uses synthetic events, not a live project run.",
+    "links": [
+      {
+        "label": "Stream reducer",
+        "url": "https://github.com/prateekmulye/ChatFormula1/blob/3574414d2786ae746a82adaeee3c2145666160bf/web/src/features/chat/stream-reducer.ts"
+      },
+      {
+        "label": "Retrieval graph",
+        "url": "https://github.com/prateekmulye/ChatFormula1/blob/3574414d2786ae746a82adaeee3c2145666160bf/agent/src/chatf1_agent/graph.py"
+      },
+      {
+        "label": "Résumé",
+        "url": "https://prateekmulye.dev/resume"
+      }
+    ]
+  }
+]

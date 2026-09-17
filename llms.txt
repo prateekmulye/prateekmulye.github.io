@@ -1,0 +1,18 @@
+# Prateek Mulye: engineering index
+
+> Software engineer focused on applied AI, with 11+ years of experience in backend platforms, distributed systems and manufacturing software.
+
+- [Canonical portfolio](https://prateekmulye.dev/)
+- [Career and project record](https://prateekmulye.dev/llms.txt)
+- [Resume](https://prateekmulye.dev/resume)
+- [Engineering evidence](https://prateekmulye.github.io/evidence.json): Seven authored records. Each includes its contribution, source links and limitations.
+
+## Current applications
+
+- [Payment Exception Desk](https://payments.prateekmulye.dev/)
+- [Load Review](https://energy.prateekmulye.dev/)
+- [Caption Review](https://captions.prateekmulye.dev/)
+
+Employer achievements and personal AI projects are separate evidence. Assay describes a contribution to a community project. ChatFormula1 v2 remains in development. Planned applications are not deployed accomplishments.
+
+The optional finder retrieves existing records. It does not write candidate claims or establish model quality. Search results can be incomplete or irrelevant; the linked sources and limitations provide the context.
